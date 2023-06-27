@@ -112,7 +112,7 @@ builder.Services.AddDbContext<UserContext>(options =>
 var app = builder.Build();
 ```
 
-## Dependency Injection of for Validation, Service and Repository classes
+## Dependency Injection of Validation, Service and Repository classes
 
 ```
 // DI the user service,  user validator and the db context
