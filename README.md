@@ -41,6 +41,10 @@ This structure reflects a clear separation of concerns and makes your project ea
 
 ```
 
+## API Explorer with Swashbuckle
+
+<img src="api-explorer.png" alt="Mono Space diagram" width="460"/>
+
 ## Dependencies added for this api service
 
 Sets up the required packages to use SqlLite with .NET 7
